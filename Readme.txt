@@ -9,3 +9,7 @@
 { SHORTCUT TO GENERATE EXPORT DEFAULT => TYPE RNF }
 
 - CREATE (TABS) FOLDER
+
+--- INSTALL CLERK
+-- npm install @clerk/clerk-expo
+

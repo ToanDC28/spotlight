@@ -1,6 +1,6 @@
 import { Image, Pressable, Text, TouchableOpacity, View } from "react-native";
-import { styles } from "../../styles/auth.style.js";
 import { Link } from "expo-router";
+import { styles } from "@/styles/auth.style";
 
 export default function Index() {
   return (
